@@ -1,0 +1,31 @@
+To get a list of the movie categories I ran the following code:
+```
+SELECT name
+FROM category
+```
+
+At this moment I noticed that several categories were missing and decided to add them to the database
+```
+INSERT INTO category(name)
+VALUES ('Thriller'),('Crime'),('Mystery'),('Romance'),('War')
+```
+
+With the new values added I ran some checks and discovered that one movie was incorrectly categorized
+```
+SELECT film_id
+FROM film
+WHERE title = 'African Egg'
+```
+
+To fix this issue I ran the following code
+```
+UPDATE film_category
+SET category_id = 19
+WHERE film_id = 5
+```
+
+Final step for this section was to drop the Mystery genre since there were no movies in this category
+```
+DELETE FROM category
+WHERE name = 'Mystery
+```
