@@ -13,5 +13,5 @@ For this project I queried a large data set for a movie rental company to draw i
 ## Data set:
 http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
-##Final Product:
+## Final Product:
 https://docs.google.com/presentation/d/1hkvcmQMcv3tN64CeG-9qpckhDRqu9R-wLsQE3rZ8t14/present?slide=id.p
