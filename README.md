@@ -14,7 +14,7 @@ For this project I queried a large data set for a movie rental company to draw i
 http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 ## World Map of Customers:
-![Tableau visualization of the world map.](https://public.tableau.com/views/RockbusterGlobalCustomers/NumberofCustomers?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Tableau visualization of the world map.](https://public.tableau.com/views/RockbusterGlobalCustomers/NumberofCustomers?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Final Product:
 https://docs.google.com/presentation/d/1hkvcmQMcv3tN64CeG-9qpckhDRqu9R-wLsQE3rZ8t14/present?slide=id.p
